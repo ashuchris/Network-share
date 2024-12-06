@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/flCs5hu.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
 <h1>Network Files Share And Security Group Permissions </h1>
